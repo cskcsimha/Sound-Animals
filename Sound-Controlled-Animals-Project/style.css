@@ -1,0 +1,37 @@
+body{
+    font-family: 'Mochiy Pop P One', sans-serif;
+    background:blue ;
+  }
+  
+  .header_div{
+      background:red ;
+      color:aquamarine;
+  }
+  
+  .header_div p{
+      font-family: 'Sedgwick Ave', cursive;
+      color:black;
+      letter-spacing: 2px;
+      font-size: 12px;
+      font-weight: bold;
+  }
+  
+  .main_div button{
+      font-family: 'Raleway', sans-serif;
+      margin-top:30px;
+      width:130px;
+      font-weight: bolder;
+      letter-spacing:3px;
+  }
+  
+  .copy_right_footer{
+      position:fixed;
+      color:firebrick;
+      bottom:0;
+      width:100%;
+      font-size: 18px;
+      background-color: lavender;
+      line-height:3;
+      text-align:center;
+      text-shadow:5px 5px 5px rgba(30, 143, 255, 0.37);
+  }
